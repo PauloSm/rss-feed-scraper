@@ -1,3 +1,4 @@
+# Attention: This is an old scraper (3+ years old). There is a lot to be refactored, especially in the way concurrency was implemented.
 # RSS / Atom Feed Scraper
 Scraper designed to extract the RSS or Atom feed URL, fetch the feed contents and return data from some attributes.
 
